@@ -1,0 +1,2 @@
+.gitattributes
+docs/** linguist-documentation=false
