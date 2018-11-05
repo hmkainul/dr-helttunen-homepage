@@ -9,7 +9,6 @@ module.exports = {
             { text: 'Project', link: '/marext/' },
             { text: 'Publications', link: '/publications/'},
             { text: 'Curriculum Vitae', link: '/curriculum-vitae/'},
-            { text: 'A PhD Position Available', link: 'https://rekry.saima.fi/certiahome/open_job_view.html?did=5600&jc=12&id=00006121&lang=fi'}
         ]
     }
 }

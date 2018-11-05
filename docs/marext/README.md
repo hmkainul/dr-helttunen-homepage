@@ -1,10 +1,5 @@
 # Macrocyclic Receptors for Selective Anion Extraction (MAREXT)
 
-::: tip A PhD Position Available in MAREXT
-The application DL is 31.10.2018. 
-[Read more](https://rekry.saima.fi/certiahome/open_job_view.html?did=5600&jc=12&id=00006121&lang=fi)
-:::
-
 <p style="text-align:center">
     <img src="./marext.png" alt="Project's logo">
 </p>
