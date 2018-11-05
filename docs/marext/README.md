@@ -1,6 +1,7 @@
-# Macrocyclic Receptors for Selective Anion Extraction
+# Macrocyclic Receptors for Selective Anion Extraction (MAREXT)
 
-::: tip A PhD Position Available
+::: tip A PhD Position Available in MAREXT
+The application DL is 31.10.2018. 
 [Read more](https://rekry.saima.fi/certiahome/open_job_view.html?did=5600&jc=12&id=00006121&lang=fi)
 :::
 
@@ -10,13 +11,15 @@
 
 ## Research at ICIQ
 
-Enjoying the hospitality of Prof. Pau Ballester in his lab at the Institute of Chemical Research of Catalonia. The inspiring research athmosphere and instrumentation are just perfect for calix[4]pyrrole chemistry. 
+<Calendar/> May 2018 - April 2019
+
+Enjoying the hospitality of Prof. Pau Ballester in his lab at the Institute of Chemical Research of Catalonia. The inspiring research atmosphere and instrumentation are just perfect for calix[4]pyrrole chemistry. 
 
 ![Portrait at ICIQ](./KHelttunen.jpg)
 
 ## Overview
 
-May 2018 - April 2023
+<Calendar/> May 2018 - April 2023
 
 The project aims to offer pioneering solutions for the selective binding of biologically and technologically important anions. The target anions include anti-inflammatory drugs with carboxylate groups, and valuable resources, such as phosphate and precious metals (Au, Pt, Co). The project focuses on advanced synthesis of selective receptors, characterization of the anion complexes and development of extraction methods for target anions from water.
 
