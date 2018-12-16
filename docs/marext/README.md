@@ -1,7 +1,7 @@
 # Macrocyclic Receptors for Selective Anion Extraction (MAREXT)
 
 <p style="text-align:center">
-    <img src="./marext.png" alt="Project's logo">
+    <img :src="$withBase('/logo.png')" alt="Project's logo">
 </p>
 
 ## Research at ICIQ
