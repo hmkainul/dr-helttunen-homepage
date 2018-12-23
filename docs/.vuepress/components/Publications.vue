@@ -1,6 +1,5 @@
 <template>
 <div>
-    <Search v-if="search"/>
     <ol reversed :start="publications.length">
         <Publication v-for="(publication, index) in publications" v-if="!top || index < top" v-bind:publication="publication" :key="index"/>
     </ol>
@@ -14,6 +13,6 @@ export default {
     created() {
         this.publications = json.default
     },
-    props: ["top", "search"]
+    props: ["top"]
 }
 </script>
