@@ -1,7 +1,9 @@
 <template>
 <div>
     <Search v-if="search"/>
-    <Publication v-for="(publication, index) in publications" v-if="!top || index < top" v-bind:publication="publication" :key="index"/>
+    <ol reversed :start="publications.length">
+        <Publication v-for="(publication, index) in publications" v-if="!top || index < top" v-bind:publication="publication" :key="index"/>
+    </ol>
 </div>
 </template>
 
