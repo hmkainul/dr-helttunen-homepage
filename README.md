@@ -1,10 +1,10 @@
-# Dr Helttunen's homepage
+# Dr Helttunen's Homepage
 
-## Install
+## Build to Static Files
 
 ```bash
 cd docs
-vuepress build
+npx vuepress build
 ```
 
 If the build works you will see a message
@@ -14,9 +14,3 @@ If the build works you will see a message
 ```
 
 and `docs/.vuepress/dist` folder contains the homepage files.
-
-## If VuePress is not installed
-
-```bash
-npm install -g vuepress
-```
