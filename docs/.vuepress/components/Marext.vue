@@ -3,7 +3,7 @@
   <div class="row1">
     <div class="left1">
       <h2>Macrocyclic Receptors for Selective Anion Extraction</h2>
-      <p><Calendar/> May 2018 - April 2023</p>
+      <p class="first"><Calendar/> May 2018 - April 2023</p>
       <p>The project aims to offer pioneering solutions for the selective binding of biologically and technologically
       important anions. The target anions include anti-inflammatory drugs with carboxylate groups, and valuable
       resources, such as phosphate and precious metals (Au, Pt, Co). The project focuses on advanced synthesis
@@ -40,6 +40,12 @@ svg.icon
     max-width 20%
     text-align center
     margin-bottom 16px
+
+h2
+    margin-bottom 0
+
+.first
+    margin-top 0
 
 .logo
     width 100%
