@@ -37,8 +37,6 @@ The project aims to offer pioneering solutions for the selective binding of biol
 
 ## Funding
 
-Academy of Finland
-
 <p style="width:300px">
-    <img class="logo" :src="$withBase('/logo/aka.png')" alt="Academy of Finland">
+    <img :src="$withBase('/logo/aka.png')" alt="Academy of Finland">
 </p>
