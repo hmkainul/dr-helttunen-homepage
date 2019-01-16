@@ -10,4 +10,5 @@ svg.icon
     width 25px
     height 25px
     vertical-align -0.4em
+    margin-top 5px
 </style>
