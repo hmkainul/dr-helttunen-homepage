@@ -1,5 +1,5 @@
 <template>
-<div class="background">
+<div>
   <div class="row">
 
     <div class="left">
@@ -29,9 +29,6 @@
 </template>
 
 <style lang="stylus">
-.background
-    background-color #f1f1f1
-
 .row
     max-width 1400px
     display flex
@@ -52,10 +49,4 @@
     .left
     .right
         max-width 100%
-
-// h2
-    // color: #fff;
-    // background-color: #eb553e;
-    // background-color: #002957
-    // border-bottom: 7px solid #eb553e;
 </style>
