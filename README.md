@@ -3,8 +3,7 @@
 ## Build to Static Files
 
 ```bash
-cd docs
-npx vuepress build
+npm run docs:build
 ```
 
 If the build works you will see a message
