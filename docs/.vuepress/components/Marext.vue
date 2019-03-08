@@ -10,6 +10,7 @@
       of selective receptors, characterization of the anion complexes and development of extraction methods
       for target anions from water.
       </p>
+      <p class="more"><a href="marext/">More</a> →</p>
     </div>
     <div class="right1">
       <img class="logo" src="logo/aka.png" alt="Academy of Finland">
@@ -52,4 +53,7 @@ h2
 
 .logo-jyu
     width 75%
+
+.more
+    text-align center
 </style>
