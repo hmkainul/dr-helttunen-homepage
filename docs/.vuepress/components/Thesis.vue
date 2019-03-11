@@ -1,5 +1,5 @@
 <template>
-    <Publication v-bind:publication="thesis" />
+    <ul><Publication v-bind:publication="thesis" /></ul>
 </template>
 
 <script>
