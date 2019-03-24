@@ -4,6 +4,14 @@
     <img :src="$withBase('/logo.png')" alt="Project's logo">
 </p>
 
+## New Ph.D. student
+
+<Calendar/> March 2019
+
+Malgorzata Pamula (M.Sc., Chemistry) has started as a Ph.D. student in the project.
+
+<img style="box-shadow: 0 4px 8px 0 rgb(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19)" :src="$withBase('/MPamula.jpg')" alt="Portrait of Malgorzata Pamula">
+
 ## Research at ICIQ
 
 <Calendar/> May 2018 - April 2019

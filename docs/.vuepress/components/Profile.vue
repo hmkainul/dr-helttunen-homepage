@@ -6,7 +6,7 @@
   <p>Visiting Researcher at the
     <a href="http://www.iciq.org">Institute of Chemical Research of Catalonia<OutboundLink /></a> 05/2018-</p>
   <p>PhD in organic chemistry, University of Jyv&#228;skyl&#228; 2012</p>
-  <p>Research interests: supramolecular chemistry, anion binding, macrocyclic receptors (calixpyrroles, resorcinarenes),
+  <p>Research interests: supramolecular chemistry, anion binding, macrocyclic receptors (calix[4]pyrroles, resorcinarenes),
     and colloidal structures including micelles and solid lipid nanoparticles.</p>
   <p>Research methods: synthesis, complexation studies (NMR, ITC, UV-vis, fluorescence), and crystallography.</p>
   <p>Previous research includes cation complexation, Langmuir films and solid lipid nanoparticles of resorcinarene
