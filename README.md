@@ -1,5 +1,11 @@
 # Dr Helttunen's Homepage
 
+## Run Locally
+
+```bash
+npm run docs:dev
+```
+
 ## Build to Static Files
 
 ```bash
