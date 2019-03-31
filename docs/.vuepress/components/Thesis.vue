@@ -1,5 +1,8 @@
 <template>
+  <div>
     <ul><Publication v-bind:publication="thesis" /></ul>
+    <p class="more">← <a href="../">Show all publications</a></p>
+  </div>
 </template>
 
 <script>
@@ -11,3 +14,8 @@ export default {
     },
 }
 </script>
+
+<style lang="stylus" scoped>
+.more
+    text-align center
+</style>
