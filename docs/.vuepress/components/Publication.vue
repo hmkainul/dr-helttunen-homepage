@@ -5,7 +5,7 @@
       <span v-if="publication['phd']"><a href="thesis/"><Badge text="Ph.D. Thesis"/></a></span><br>
     <span v-html="publication.citation"></span>
     <span v-if="publication['doi']">doi:{{publication.doi}}</span>
-    <span v-if="publication['image']"><img v-bind:src="$withBase('/' + publication.image)" /></span>
+    <span v-if="publication['image']"><img v-bind:src="$withBase('/' + publication.image)" alt="Graphical Abstract" /></span>
     <span v-if="publication['graphicalAbstract']" class="abstract">{{publication.graphicalAbstract}}</span>
   </li>
 </template>
