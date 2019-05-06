@@ -3,8 +3,6 @@
   <h1>Dr Kaisa Helttunen</h1>
   <p>Academy Research Fellow at
     <a href="https://www.jyu.fi/en">University of Jyv&#228;skyl&#228;<OutboundLink /></a> 09/2017-</p>
-  <p>Visiting Researcher at the
-    <a href="http://www.iciq.org">Institute of Chemical Research of Catalonia<OutboundLink /></a> 05/2018-</p>
   <p>PhD in organic chemistry, University of Jyv&#228;skyl&#228; 2012</p>
   <p>Research interests: supramolecular chemistry, anion binding, macrocyclic receptors (calix[4]pyrroles, resorcinarenes),
     and colloidal structures including micelles and solid lipid nanoparticles.</p>
