@@ -17,6 +17,8 @@
 ## Previous work experience
 
 **Visiting researcher**, Institute of Chemical Research of Catalonia (ICIQ), Spain, 05/2018–04/2019
+<br> Responsibilities: synthesis and anion binding studies of calix[4]pyrrole receptors
+<br> Funding: Academy of Finland "Macrocyclic receptors for selective anion extraction"
 
 **Post-doctoral researcher**, University of Jyväskylä, Department of Chemistry, Nanoscience Center 01/2013–12/2016
 <br> Responsibilities: synthesis of macrocyclic ligands, complexation studies for anions and metal cations using NMR, fluorescence, UV-vis, X-ray diffraction; particle studies with dynamic light scattering, SEM/TEM; supervising undergraduate students in laboratory, teaching in undergraduate level, writing publications
