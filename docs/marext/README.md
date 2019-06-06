@@ -4,6 +4,14 @@
     <img :src="$withBase('/logo.png')" alt="Project's logo">
 </p>
 
+## ISMSC2019 Lecce, Italy
+
+<Calendar/> June 2019
+
+The [14th International Symposium on Macrocyclic and Supramolecular Chemistry](https://ismsc2019.eu/#) was a great mixture of science, baroque architecture, and Italian cuisine.
+
+<img style="box-shadow: 0 4px 8px 0 rgb(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19)" :src="$withBase('/poster-ISMSC.jpg')" alt="Poster at ISMSC">
+
 ## New Ph.D. student
 
 <Calendar/> March 2019
