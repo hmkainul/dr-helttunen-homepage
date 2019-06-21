@@ -19,3 +19,9 @@ If the build works you will see a message
 ```
 
 and `docs/.vuepress/dist` folder contains the homepage files.
+
+## Test
+
+```bash
+npx cypress open
+```
