@@ -10,7 +10,7 @@
 
 The [14th International Symposium on Macrocyclic and Supramolecular Chemistry](https://ismsc2019.eu/#) was a great mixture of science, baroque architecture, and Italian cuisine.
 
-<img style="box-shadow: 0 4px 8px 0 rgb(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19)" :src="$withBase('/poster-ISMSC.jpg')" alt="Poster at ISMSC">
+<Portrait src="poster-ISMSC.jpg" alt="Poster at ISMSC" />
 
 ## New Ph.D. student
 
@@ -18,7 +18,7 @@ The [14th International Symposium on Macrocyclic and Supramolecular Chemistry](h
 
 Malgorzata Pamula (M.Sc., Chemistry) has started as a Ph.D. student in the project.
 
-<img style="box-shadow: 0 4px 8px 0 rgb(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19)" :src="$withBase('/MPamula.jpg')" alt="Portrait of Malgorzata Pamula">
+<Portrait src="MPamula.jpg" alt="Portrait of Malgorzata Pamula" />
 
 ## Research at ICIQ
 
@@ -26,8 +26,7 @@ Malgorzata Pamula (M.Sc., Chemistry) has started as a Ph.D. student in the proje
 
 Enjoying the hospitality of Prof. Pau Ballester in his lab at the Institute of Chemical Research of Catalonia. The inspiring research atmosphere and instrumentation are just perfect for calix[4]pyrrole chemistry. 
 
-
-<img style="box-shadow: 0 4px 8px 0 rgb(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19)" :src="$withBase('/KHelttunen.jpg')" alt="Portrait at ICIQ">
+<Portrait src="KHelttunen.jpg" alt="Portrait at ICIQ" />
 
 ## Overview
 
