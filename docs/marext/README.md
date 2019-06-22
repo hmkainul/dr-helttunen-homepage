@@ -26,7 +26,8 @@ Malgorzata Pamula (M.Sc., Chemistry) has started as a Ph.D. student in the proje
 
 Enjoying the hospitality of Prof. Pau Ballester in his lab at the Institute of Chemical Research of Catalonia. The inspiring research atmosphere and instrumentation are just perfect for calix[4]pyrrole chemistry. 
 
-![Portrait at ICIQ](./KHelttunen.jpg)
+
+<img style="box-shadow: 0 4px 8px 0 rgb(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19)" :src="$withBase('/KHelttunen.jpg')" alt="Portrait at ICIQ">
 
 ## Overview
 
