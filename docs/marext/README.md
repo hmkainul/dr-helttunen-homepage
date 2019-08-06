@@ -4,6 +4,12 @@
     <img :src="$withBase('/logo.png')" alt="Project's logo">
 </p>
 
+## Calix-2019 Cassis, France
+
+<Calendar/> June 2019
+
+It was an honour to present our latest results and meet distinguished scientists at [Calix-2019](http://www.cinam.univ-mrs.fr/calix2019/index.php?page=Accueil).
+
 ## ISMSC2019 Lecce, Italy
 
 <Calendar/> June 2019
