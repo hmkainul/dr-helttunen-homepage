@@ -4,6 +4,15 @@
     <img :src="$withBase('/logo.png')" alt="Project's logo">
 </p>
 
+## New Research assistant
+
+<Calendar/> July 2019
+
+Afra Fekri was recruited as a part-time Research assistant for the project.
+
+<Portrait src="Afra-Fekri.jpg" alt="Portrait of Afra Fekri" />
+
+
 ## Calix-2019 Cassis, France
 
 <Calendar/> June 2019
