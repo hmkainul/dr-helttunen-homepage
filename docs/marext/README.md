@@ -10,6 +10,8 @@
 
 It was an honour to present our latest results and meet distinguished scientists at [Calix-2019](http://www.cinam.univ-mrs.fr/calix2019/index.php?page=Accueil).
 
+<Portrait src="poster-Calix2019.jpg" alt="Poster at Calix-2019" />
+
 ## ISMSC2019 Lecce, Italy
 
 <Calendar/> June 2019
