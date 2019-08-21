@@ -43,7 +43,6 @@ The student knows basic concepts of supramolecular chemistry, different types of
 [Lecture videos](https://moniviestin.jyu.fi/ohjelmat/science/kemia/methods-for-the-characterization-of-supramolecular-complexes) from the course. Ask the password from Kaisa Helttunen.
 <Portrait src="PBallester-lecture.JPG" alt="Pablo Ballester giving lecture" />
 
-
 **Free software for academics:**<br>
 1) [HySS2009](http://www.hyperquad.co.uk/hyss.htm) Only Windows version available.
 2) [TopSpin](https://www.bruker.com/service/support-upgrades/software-downloads/nmr.html) from Bruker
