@@ -7,10 +7,8 @@ meta:
 # Prof. Pablo Ballester's course in the Jyväskylä Summer School 12.-16.8.2019
 
 ## [NANO2/CH4: Methods for the Characterization of Supramolecular Complexes](https://www.jyu.fi/en/research/summer-and-winter-schools/jss/courses/courses-of-nanoscience)
-Read more about the [29th Jyväskylä Summer School and apply](https://www.jyu.fi/en/research/summer-and-winter-schools/jss)  by 30.4.!
-<p style="width:228px;height:152px">
-    <img style="box-shadow: 0 4px 8px 0 rgb(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19)" :src="$withBase('/pb-foto.jpg')" alt="Portrait of Pablo Ballester">
-</p>
+NANO2 course at [29th Jyväskylä Summer School](https://www.jyu.fi/en/research/summer-and-winter-schools/jss) attracted 22 students from near and far. Thank you for all the participants!
+<Portrait src="JSS29BallesterP-web.JPG" alt="Group photo at JSS29"/>
 
 ### Course details
 **NANO2/CH4: Methods for the Characterization of Supramolecular Complexes**<br>
@@ -32,9 +30,34 @@ The student will learn basic concepts of supramolecular binding and the structur
 ### Prerequisites
 The student knows basic concepts of supramolecular chemistry, different types of weak intermolecular interactions, and basic operating principles of NMR and optical spectroscopy.
 
-
 ### Lecturer
+<p style="width:228px;height:152px">
+    <img style="box-shadow: 0 4px 8px 0 rgb(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19)" :src="$withBase('/pb-foto.jpg')" alt="Portrait of Pablo Ballester">
+</p>
+
 [Prof. Pablo Ballester](http://www.iciq.org/research/research_group/prof-pau-ballester/) is an ICREA Research Professor and a Group Leader at ICIQ (Institute of Chemical Research of Catalonia). His research is mainly focused in the design, synthesis, study and characterization of functional molecular aggregates. Pablo Ballester has worked in many renowned universities and institutes in Spain and in USA, including Massachusetts Institute of Technology (Cambridge, USA) as a postdoctoral associate and at the Scripps Research Institute (La Jolla, USA) with the rank of associate professor of research.
 
-### Related material<br>
+### Course material
+
+**Prof. Pablo Ballester's lectures in Jyväskylä:**<br>
+[Lecture videos](https://moniviestin.jyu.fi/ohjelmat/science/kemia/methods-for-the-characterization-of-supramolecular-complexes) from the course. Ask the password from Kaisa Helttunen.
+<Portrait src="PBallester-lecture.JPG" alt="Pablo Ballester giving lecture" />
+
+
+**Free software for academics:**<br>
+1) [HySS2009](http://www.hyperquad.co.uk/hyss.htm) Only Windows version available.
+2) [TopSpin](https://www.bruker.com/service/support-upgrades/software-downloads/nmr.html) from Bruker
+Choose the version compatible with your operating system. The layout and location of tools differs between different versions but they contain more or less the same functions. The site requires registration and requesting a free academic license, which is generated automatically.
+3) [Dynamics Center](https://www.bruker.com/service/support-upgrades/software-downloads/nmr.html) from Bruker.
+4) [Discovery Studio Visualizer](https://www.3dsbiovia.com/resource-center/downloads/freeware/index.html) from Biovia. This version of the Discovery Studio is freeware, the site requires your contact details for downloading.
+5) [Supramolecular.org](http://supramolecular.org) Free online tools for fitting and simulating host-guest titration data.
+
+**Recommended books:**<br>
+1) Principles and Methods in Supramolecular Chemistry, Hans-Jörg Schneider and Anatoly Yatsimirsky
+2) Core concepts in supramolecular chemistry and nanochemistry, Jonathan W. Steed, David R. Turner, Karl Wallace
+3) Analytical Methods in Supramolecular Chemistry, Prof. Dr. Christoph Schalley
+4) Modern NMR techniques for chemistry research, A.E. Derome
+5) Spin dynamics - Basics of Nuclear Magnetic Resonance, Malcolm H. Levitt
+
+### Related material
 Video [Molecular sensors and nanocontainers](https://www.youtube.com/watch?v=yfzCJe6YkNM&feature=youtu.be) - Prof. Ballester talks about his research
