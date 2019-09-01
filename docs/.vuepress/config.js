@@ -10,6 +10,7 @@ module.exports = {
         sidebar: 'auto',
         nav: [
             { text: 'Project', link: '/marext/' },
+            { text: 'Teaching', link: '/teaching/' },
             { text: 'Events', link: '/events/' },
             { text: 'Publications', link: '/publications/'},
             { text: 'Curriculum Vitae', link: '/curriculum-vitae/'},
