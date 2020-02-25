@@ -2,10 +2,7 @@
 layout: Nop
 ---
 
-::: tip "What can you do with nanosugar?"
-[Researchers' night 27.9.2019](/events/)
+::: tip A Post-doc position available in the project. Application period opens soon:
+[www.jyu.fi/en/workwithus/open-jobs](https://www.jyu.fi/en/workwithus/open-jobs)
 :::
 
-::: tip Teaching nanochemistry 6.9.2019–29.11.2019
-[Fundamentals in Nanoscience NANS1001](/teaching/)
-:::
