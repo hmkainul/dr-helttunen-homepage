@@ -4,6 +4,24 @@
     <img :src="$withBase('/logo.png')" alt="Project's logo">
 </p>
 
+## First paper accepted in Chemistry - A European Journal
+
+<Calendar/> February 2020
+
+Małgorzata Pamuła, Maija Nissinen, Kaisa Helttunen, [Correlating solution and solid state structures of conformationally flexible resorcinarenes – the significance of a sulfonyl group in intramolecular self‐inclusion](https://onlinelibrary.wiley.com/doi/abs/10.1002/chem.201905211?af=R)
+
+In this paper we show that a conformationally flexible resorcinarene macrocycle forms a self-inclusion complex in the solid state and adopts a similar folded conformation also in solution. The study was made using VT-NMR, XRD and computational methods.
+
+
+## Nanoscience Days 2019
+
+<Calendar/> October 2019
+
+Malgorzata Pamula and Afra Fekri presented posters at Nanoscience Days 2019 in Jyväskylä.
+
+<Portrait src="NSDays-2019-2-crop.jpg" alt="Afra's poster at Nanoscience Days" />
+
+
 ## New Research assistant
 
 <Calendar/> July 2019
