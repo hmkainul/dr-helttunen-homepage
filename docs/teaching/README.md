@@ -12,7 +12,7 @@ Prof. Janne Ihalainen<br>
 **Registration:** [Sisu](https://sisu.jyu.fi/student/courseunit/jy-CU-41919-v2/brochure)
 
 ### Content
-The course is divided in four blocks each having their theme. In each block, different nano-sized system are studied from physics, biology or chemistry perspective. In supramolecular chemistry block we prepare a nanomaterial by crystallizing metal-organic framework from a cyclodextrin and an alkali metal salt. We study the crystals with X-ray diffraction and visualise the crystal structure with Mercury software. In addition, we investigate the thermodynamic stability of a cyclodextrin-dye inclusion complex with fluorescence titration.
+The course is divided in four blocks. In each block, different nano-sized system is studied from physics, biology or chemistry perspective. In supramolecular chemistry block we prepare a nanomaterial by crystallizing metal-organic framework from a cyclodextrin and an alkali metal salt. We study the crystals with X-ray diffraction and visualise the crystal structure with Mercury software. In addition, we investigate the thermodynamic stability of a cyclodextrin-dye inclusion complex with fluorescence titration.
 
 
 ## Fundamentals in Nanoscience 2019 
