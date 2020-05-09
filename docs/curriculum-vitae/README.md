@@ -10,19 +10,20 @@
 <br>Supervisors Professor Kari Rissanen and Dr. Vesa Hytönen
 <br>Title: Synthesis, properties and applications of bifunctional reagents (original title in Finnish)
 
+## Other education
+- Basic studies in university pedagogy, University of Jyväskylä, 10 ECTS, 2020
+- Studies in programming, University of Jyväskylä, 9 ECTS, 2017
+- Studies in education and adult education, University of Jyväskylä, 25 ECTS, 2011
+
 ## Current position
 
 **Academy Research Fellow**, University of Jyväskylä, Department of Chemistry, Nanoscience Center 09/2017–
 
-## Previous work experience
+## International mobility
 
 **Visiting researcher**, Institute of Chemical Research of Catalonia (ICIQ), Spain, 05/2018–04/2019
 <br> Responsibilities: synthesis and anion binding studies of calix[4]pyrrole receptors
 <br> Funding: Academy of Finland "Macrocyclic receptors for selective anion extraction"
-
-**Post-doctoral researcher**, University of Jyväskylä, Department of Chemistry, Nanoscience Center 01/2013–12/2016
-<br> Responsibilities: synthesis of macrocyclic ligands, complexation studies for anions and metal cations using NMR, fluorescence, UV-vis, X-ray diffraction; particle studies with dynamic light scattering, SEM/TEM; supervising undergraduate students in laboratory, teaching in undergraduate level, writing publications
-<br> Funding: Academy of Finland “From structure to function: supramolecular ligands for solid lipid and metallic nanoparticles” (PI Prof. Maija Nissinen)
 
 **Visiting researcher**, Institute of Chemical Research of Catalonia (ICIQ), Spain, 04–05/2016
 <br> Responsibilities: isothermal titration calorimetry for halide anion binding foldamers
@@ -32,25 +33,26 @@
 <br> Responsibilities: dynamic light scattering, nanoparticle tracking analysis and SAXS studies of solid lipid nanoparticles
 <br> Funding: Alfred Kordelin Foundation Gust. Komppa Fund, Oskar Öflunds Stiftelse, University of Jyväskylä
 
-**Researcher**, University of Jyväskylä, Department of Chemistry, Nanoscience Center, Finland, 01/2012– 12/2012
-<br> Project: Synthesis and characterization of resorcinarene-based receptor molecules in self-assembling structures
-<br> Funding: Emil Aaltonen Foundation, a scholarship for young scientist
-
 **Visiting researcher**, University of Applied Sciences Northwestern Switzerland, Department of Chemistry and Bioanalytics, Switzerland 01/2010–02/2010
 <br> Responsibilities: Langmuir-film and light-scattering studies of amphiphilic resorcinarenes
 <br> Funding: University of Jyväskylä
 
-**Doctoral student**, University of Jyväskylä, Department of Chemistry, Nanoscience Center, Finland, 01/2010–12/2011
-<br> Responsibilities: synthesis of resorcinarene-based hosts and amphiphiles, interaction studies with alkali metal cations and silver using NMR, single crystal and powder X-ray diffraction; preparation and characterization of solid lipid nanoparticles with dynamic light scattering and SEM
-<br> Funding: The Graduate School of Organic Chemistry and Chemical Biology
+## Previous positions
 
-**Doctoral student**, University of Jyväskylä, Department of Chemistry, Nanoscience Center, Finland, 09/2006–12/2009
-<br> Responsibilities: synthesis of resorcinarene-based hosts, interaction studies with fluorescent dyes using NMR, UV-vis, fluorescence, single crystal and powder XRD
-<br> Funding: Academy of Finland
+**Post-doctoral researcher**, University of Jyväskylä, Department of Chemistry, Nanoscience Center 01/2013–12/2016
+<br> Responsibilities: synthesis of macrocyclic ligands, complexation studies for anions and metal cations using NMR, fluorescence, UV-vis, X-ray diffraction; particle studies with dynamic light scattering, SEM/TEM; supervising undergraduate students in laboratory, teaching in undergraduate level, writing publications
+<br> Funding: Academy of Finland “From structure to function: supramolecular ligands for solid lipid and metallic nanoparticles” (PI Prof. Maija Nissinen)
+
+**Researcher**, University of Jyväskylä, Department of Chemistry, Nanoscience Center, Finland, 01/2012– 12/2012
+<br> Project: Synthesis and characterization of resorcinarene-based receptor molecules in self-assembling structures
+<br> Funding: Emil Aaltonen Foundation, a scholarship for young scientist
+
+**Doctoral student**, University of Jyväskylä, Department of Chemistry, Nanoscience Center, Finland, 09/2006–12/2009 and 01/2010–12/2011
+<br> Responsibilities: synthesis of resorcinarene-based hosts and amphiphiles, interaction studies with dyes, alkali metal cations and silver using NMR, UV-vis, fluorescence, single crystal and powder X-ray diffraction; preparation and characterization of solid lipid nanoparticles with dynamic light scattering and SEM
+<br> Funding: The Graduate School of Organic Chemistry and Chemical Biology, and Academy of Finland
 
 **Research assistant**, University of Jyväskylä, Department of Chemistry, Nanoscience Center, Finland, 05/2006–08/2006
 <br> Responsibilities: worked in a multidisciplinary research team studying conducting thiol linkers for DNA-electronics
-
 
 ## Received personal funding
 
