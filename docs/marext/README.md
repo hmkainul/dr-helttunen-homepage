@@ -8,7 +8,7 @@
 
 <Calendar/> February 2020
 
-Małgorzata Pamuła, Maija Nissinen, Kaisa Helttunen, [Correlating solution and solid state structures of conformationally flexible resorcinarenes – the significance of a sulfonyl group in intramolecular self‐inclusion](https://doi.org/10.1002/chem.201905211)
+Małgorzata Pamuła, Maija Nissinen, Kaisa Helttunen, [Correlating solution- and solid-state structures of conformationally flexible resorcinarenes: significance of a sulfonyl group in intramolecular self‐inclusion](https://doi.org/10.1002/chem.201905211)
 
 <Portrait src="17.png" alt="Chem. Eur. J. 2020" />
 
