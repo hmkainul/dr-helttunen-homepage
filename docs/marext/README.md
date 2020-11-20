@@ -4,6 +4,14 @@
     <img :src="$withBase('/logo.png')" alt="Project's logo">
 </p>
 
+## New Post-doctoral researcher
+
+<Calendar/> September 2020
+
+Dr. Evgeny Bulatov has joined the team. His project includes synthesis, crystallography and applications of calix[4]pyrrole based anion receptors.
+
+<Portrait src="Evgeny-Bulatov.jpg" alt="Portrait of Evgeny Bulatov" />
+
 ## First paper accepted in Chemistry - A European Journal
 
 <Calendar/> February 2020
