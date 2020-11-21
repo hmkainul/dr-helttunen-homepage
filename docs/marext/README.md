@@ -21,6 +21,7 @@ Małgorzata Pamuła, Maija Nissinen, Kaisa Helttunen, [Correlating solution- and
 <Portrait src="17.png" alt="Chem. Eur. J. 2020" />
 
 In this paper we show that a conformationally flexible resorcinarene macrocycle forms a self-inclusion complex in the solid state and adopts a similar folded conformation also in solution. The study was made using VT-NMR, XRD and computational methods.
+[Press release](https://www.jyu.fi/en/current/archive/2020/06/chemists-from-jyvaskyla-made-flexible-molecular-cups-can-be-filled-with-toluene) [Kemia-lehti](https://www.kemia-lehti.fi/molekyyleista-syntyi-joustavia-kuppeja/)
 
 
 ## Nanoscience Days 2019
