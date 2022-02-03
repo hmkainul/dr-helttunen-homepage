@@ -1,6 +1,30 @@
 # Events
 
+## Nanoscience Days 2021
+<Calendar/> October 2021
+
+The annual [Nanoscience Days](https://www.jyu.fi/science/en/nanoscience-center/nanoscience-days) conference in Jyväskylä was held in a hybrid format 5.-6.10. The plenary speakers were Pablo Ballester, Jeremy Baumberg, Rodolphe Clerac, Chiara Daraio, Lakmal Jayasinghe, Ken Dill, Vesa Hytönen, Anna Lähde, Andrea Morello and Cynthia Sharma.
+
+## PhD defence of Dr. Qinqing Sun
+<Calendar/> July 2021
+
+Second time a vocal in a PhD evaluation committee for online PhD defence. The candidate Qingqing Sun defended her thesis “Aryl and Super Aryl-Extended Calix\[4\]pyrroles: Synthesis and Applications” on July 23rd 2021.
+
+<Portrait src="Tribunal_Qinqing_Sun.png" alt="The candidate with supervisor and evaluation committee"/>
+
+[Qingqing Sun's PhD defence](https://www.iciq.org/congratulations-dr-qingqing-sun/)
+
+## PhD defence of Dr. Ricardo Molina
+<Calendar/> February 2021
+
+It was a pleasure to serve in the evaluation committee of Ricardo Molina's PhD thesis “Calix\[4\]pyrrole Based Receptors for the Recognition of Ion Pairs” on February 4th 2021.
+
+<Portrait src="Tribunal_Ricardo_Molina.jpg" alt="The candidate with supervisor and evaluation committee"/>
+
+[Ricardo Molina's PhD defence](https://www.iciq.org/kudos-to-dr-ricardo-molina-iciqs-newest-doctor/)
+
 ## Researchers' Night 2019
+<Calendar/> September 2019
 
 ### What can you do with nanosugar?
 <Portrait src="Nanosugar-small.JPG" alt="Nanosugar demonstration"/>
