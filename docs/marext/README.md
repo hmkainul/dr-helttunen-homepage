@@ -4,6 +4,31 @@
     <img :src="$withBase('/logo.png')" alt="Project's logo">
 </p>
 
+
+## Congratulations to Evgeny
+<Calendar/> January 2022
+
+Our former post-doctoral researcher Dr. Evgeny Bulatov has received an [I2:ICIQ Impulsion fellowship](http://iciq-impulsion.eu/impulsions-3th-call-fellowships-awarded/) for "Resorcin[4]arene and Calix[4]pyrrole Based Cavitands in Asymmetric Supramolecular Gold(I) Catalysis". He has now joined Prof. Pau Ballester and Prof. Antonio M. Echavarren research groups at the Institute of Chemical Research of Catalonia.
+
+## Nanoscience Days 2021 posters
+<Calendar/> October 2021
+
+Doctoral researcher Małgorzata Pamuła, Research assistant Julia Naulapää and Dr. Evgeny Bulatov presented two posters in the online poster session.
+
+<Portrait src="poster-NSDays2021-JN.png" alt="Picture from abstract by J. Naulapää"/>
+
+[Book of abstracts](https://www.jyu.fi/science/en/nanoscience-center/nanoscience-days/program/nsd2021-abstract-book-1.pdf)
+
+
+## Paper published in ACS Omega
+<Calendar/> September 2021
+
+Emilia J. Virtanen, Siiri Perämäki, Kaisa Helttunen, Ari Väisänen, Jani O. Moilanen, [Alkyl-substituted aminobis(phosphonates) - efficient precipitating agents for rare earth elements, thorium, and uranium in aqueous solutions](https://doi.org/10.1021/acsomega.1c02982)
+
+<Portrait src="18.gif" alt="ACS Omega 2021"/>
+
+This study reports six simple water-soluble aminobis(phosphonate) ligands, which separate selectively thorium, uranium, and scandium from rare earth elements with improved separation factors in comparison to traditional oxalate precipitation agents. The aminobis(phosphonate) ligands were found to form Y, La and Lu metal complexes with fewer ligands than traditional separation agents like DEHPA, thus requiring less precipitation agent.
+
 ## New Post-doctoral researcher
 
 <Calendar/> September 2020
