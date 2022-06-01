@@ -4,6 +4,11 @@
     <img :src="$withBase('/logo.png')" alt="Project's logo">
 </p>
 
+## B.Sc. Julia Naulapää as Research assistant
+<Calendar/> May 2022
+Julia returns to our laboratory for five months to work with water-soluble calix[4]pyrroles for her M.Sc. thesis under supervision of Doctoral researcher Małgorzata Pamuła.
+
+<Portrait src="Julia-Naulapaa-portrait2022.jpg" alt="Portrait of Julia Naulapää"/>
 
 ## Congratulations to Evgeny
 <Calendar/> January 2022
