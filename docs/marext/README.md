@@ -4,6 +4,13 @@
     <img :src="$withBase('/logo.png')" alt="Project's logo">
 </p>
 
+## ISMSC-2022 Eugene, Oregon, USA
+<Calendar/> June 2022
+At last, we can travel again after the long COVID-19 induced break: Doctoral researcher Małgorzata Pamuła presented her latest work at [16th International Symposium on Macrocyclic and Supramolecular Chemistry](https://blogs.uoregon.edu/ismsc2022/) in Eugene, Oregon, USA.
+
+<Portrait src="poster-ISMSC-2022.jpg" alt="Malgorzata Pamula at her poster"/>
+
+
 ## B.Sc. Julia Naulapää as Research assistant
 <Calendar/> May 2022
 Julia returns to our laboratory for five months to work with water-soluble calix[4]pyrroles for her M.Sc. thesis under supervision of Doctoral researcher Małgorzata Pamuła.
