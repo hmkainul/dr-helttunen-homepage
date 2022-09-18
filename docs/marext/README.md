@@ -4,6 +4,14 @@
     <img :src="$withBase('/logo.png')" alt="Project's logo">
 </p>
 
+
+## Highlighting Organic Chemistry in Finland
+<Calendar/> September 2022
+Dr. Kaisa Helttunen presented "Folding, wrapping and clipping: stories of host-guest and self-inclusion complexes" in the EuChemS Division of Organic Chemistry webinar: [Highlighting Organic Chemistry in Finland](https://www.euchems.eu/divisions/organic-chemistry-2/). Recording available in [YouTube](https://www.youtube.com/watch?v=Zmv_mHui2w4).
+
+<Portrait src="EuChemS-webinar.png" alt="Programme of EuChemS Division of Organic Chemistry - Highlighting Organic Chemistry in Finland"/>
+
+
 ## ISMSC-2022 Eugene, Oregon, USA
 <Calendar/> June 2022
 At last, we can travel again after the long COVID-19 induced break: Doctoral researcher Małgorzata Pamuła presented her latest work at [16th International Symposium on Macrocyclic and Supramolecular Chemistry](https://blogs.uoregon.edu/ismsc2022/) in Eugene, Oregon, USA.
