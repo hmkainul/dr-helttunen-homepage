@@ -30,8 +30,8 @@ In supramolecular chemistry exercise we prepare a nanomaterial by crystallizing 
 
 ### Course details 2022
 **Fundamentals in nanoscience, NANS1001**<br>
-**Time:** September-December 2022 <br>
-**Lectures:** <br>
+**Time:** 9.9.2022-2.12.2022 <br>
+**Lectures:** Every Friday at 9-12 in YN121<br>
 **Lecturers:**<br>
 Dr. Kaisa Helttunen (nanochemistry)<br>
 Prof. Jussi Toppari (nanophysics)<br>
@@ -41,7 +41,7 @@ Prof. Janne Ihalainen (nanobiology)<br>
 **Registration:** [Sisu](https://sisu.jyu.fi/student/courseunit/otm-ab3e963c-d434-4ce7-a4fc-045710b72979/brochure)
 
 #### Update for 2022
-TBA
+Lectures are given live (on-site) only. Course material is available in Moodle.
 
 ### Course details 2021
 **Fundamentals in nanoscience, NANS1001**<br>
