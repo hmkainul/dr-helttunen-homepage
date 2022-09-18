@@ -1,5 +1,14 @@
 [
     {
+        "authors": "Kaisa Helttunen",
+        "link": "https://chemistry-europe.onlinelibrary.wiley.com/doi/abs/10.1002/ejoc.202200647",
+        "title": "Anion responsive molecular switch based on a doubly strapped calix[4]pyrrole",
+        "citation": "Eur. J. Org. Chem., 2022, e202200647.",
+        "doi": "10.1002/ejoc.202200647",
+        "graphicalAbstract": "Chloride, acetate and benzoate anions binding with relatively low affinities are kinetically trapped between the straps within the cavity of a doubly strapped calix[4]pyrrole receptor. The complexation is accompanied by a conformational change of the host reminiscent of an insect being captured in a Venus flytrap.",
+        "image": "19.png"
+    },
+    {
         "authors": "Emilia J. Virtanen, Siiri Perämäki, Kaisa Helttunen, Ari Väisänen, Jani O. Moilanen",
         "link": "https://doi.org/10.1021/acsomega.1c02982",
         "title": "Alkyl-substituted aminobis(phosphonates) - efficient precipitating agents for rare earth elements, thorium, and uranium in aqueous solutions",
