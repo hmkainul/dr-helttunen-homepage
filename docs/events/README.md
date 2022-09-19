@@ -1,5 +1,12 @@
 # Events
 
+## PhD defence of Dr. Chiara Mirabella
+<Calendar/> September 2022
+Chiara Mirabella from Prof. Pablo Ballester's group defended her PhD thesis “Dynamic Covalent Capsules based on Calix[4]pyrrole Scaffolds” on September 13th. Very interesting work, such a pleasure to be part of the evaluation committee with Prof. Dr. Rosa M. Gomila Ribas (Universitat de les Illes Balears) and Prof. Dr. Christopher A. Hunter (University of Cambridge).
+<Portrait src="Mirabella.jpeg" alt="Dr. Mirabella with her supervisor and evaluation committee"/>
+[Chiara Mirabella's PhD defence](https://www.iciq.org/congratulazione-dr-mirabella/)
+
+
 ## Nanoscience Days 2021
 <Calendar/> October 2021
 
@@ -11,7 +18,6 @@ The annual [Nanoscience Days](https://www.jyu.fi/science/en/nanoscience-center/n
 Second time a vocal in a PhD evaluation committee for online PhD defence. The candidate Qingqing Sun defended her thesis “Aryl and Super Aryl-Extended Calix\[4\]pyrroles: Synthesis and Applications” on July 23rd 2021.
 
 <Portrait src="Tribunal_Qinqing_Sun.png" alt="The candidate with supervisor and evaluation committee"/>
-
 [Qingqing Sun's PhD defence](https://www.iciq.org/congratulations-dr-qingqing-sun/)
 
 ## PhD defence of Dr. Ricardo Molina
@@ -20,7 +26,6 @@ Second time a vocal in a PhD evaluation committee for online PhD defence. The ca
 It was a pleasure to serve in the evaluation committee of Ricardo Molina's PhD thesis “Calix\[4\]pyrrole Based Receptors for the Recognition of Ion Pairs” on February 4th 2021.
 
 <Portrait src="Tribunal_Ricardo_Molina.jpg" alt="The candidate with supervisor and evaluation committee"/>
-
 [Ricardo Molina's PhD defence](https://www.iciq.org/kudos-to-dr-ricardo-molina-iciqs-newest-doctor/)
 
 ## Researchers' Night 2019
