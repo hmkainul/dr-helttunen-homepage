@@ -16,7 +16,7 @@ Dr. Kaisa Helttunen presented "Folding, wrapping and clipping: stories of host-g
 <Calendar/> June 2022
 At last, we can travel again after the long COVID-19 induced break: Doctoral researcher Małgorzata Pamuła presented her latest work at [16th International Symposium on Macrocyclic and Supramolecular Chemistry](https://blogs.uoregon.edu/ismsc2022/) in Eugene, Oregon, USA.
 
-<Portrait src="poster-ISMSC-2022.jpg" alt="Malgorzata Pamula at her poster"/>
+<Portrait src="poster-ISMSC-2022.JPG" alt="Malgorzata Pamula at her poster"/>
 
 
 ## B.Sc. Julia Naulapää as Research assistant
