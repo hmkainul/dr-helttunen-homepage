@@ -4,7 +4,7 @@
     "docs:build": "vuepress build docs"
   },
   "devDependencies": {
-    "cypress": "^3.3.1",
+    "cypress": "^12.7.0",
     "vuepress": "^0.14.8"
   }
 }
