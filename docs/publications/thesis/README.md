@@ -1,2 +1,5 @@
+---
+sidebar: false
+---
 # Thesis
 <Thesis/>

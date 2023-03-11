@@ -1,4 +1,6 @@
 <template>
+<Layout>
+<template slot="page-top">
 <div>
   <div class="row">
 
@@ -26,6 +28,8 @@
 
   </div>
 </div>
+</template>
+</Layout>
 </template>
 
 <style lang="stylus">

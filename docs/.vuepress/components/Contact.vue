@@ -13,15 +13,15 @@
       />
     </svg><a href="https://www.jyu.fi/science/en/chemistry">Department of Chemistry<OutboundLink /></a>
     <br>
-    <span>
+    <span class="my-contact">
       <a href="https://www.jyu.fi/science/en/nanoscience-center">Nanoscience Center<OutboundLink /></a>
     </span>
     <br>
-    <span>P.O. Box 35</span>
+    <span class="my-contact">P.O. Box 35</span>
     <br>
-    <span>FI-40014 University of Jyv&#228;skyl&#228;</span>
+    <span class="my-contact">FI-40014 University of Jyv&#228;skyl&#228;</span>
     <br>
-    <span>Finland</span>
+    <span class="my-contact">Finland</span>
   </p>
   <p>
     <a href="https://fi.linkedin.com/in/kaisahelttunen">
@@ -49,6 +49,6 @@ svg.contact
     height 25px
     vertical-align -0.4em
 
-span
+span.my-contact
     margin-left 41px
 </style>

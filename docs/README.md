@@ -1,5 +1,6 @@
 ---
 layout: Nop
+sidebar: false
 ---
 
 
