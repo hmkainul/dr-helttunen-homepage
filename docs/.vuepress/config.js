@@ -3,7 +3,7 @@ module.exports = {
     head: [
         ['link', { rel: 'icon', href: '/logo.png' }]
     ],
-    title: 'Dr Kaisa Helttunen',
+    title: 'Assistant Professor Kaisa Helttunen',
     description: 'Academy Research Fellow at University of Jyväskylä. Macrocyclic Receptors for Selective Anion Extraction project aims to offer pioneering solutions for the selective binding of biologically and technologically important anions.',
     themeConfig: {
         search: false,

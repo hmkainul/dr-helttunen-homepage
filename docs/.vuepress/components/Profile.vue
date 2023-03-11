@@ -1,8 +1,9 @@
 <template>
 <div>
-  <h1>Dr Kaisa Helttunen</h1>
+  <h1 style="margin-bottom:0px">Kaisa Helttunen</h1>
+  <p style="margin-top:0px;font-weight:600">Assistant Professor in Organic Analytical Chemistry</p>
   <p>Academy Research Fellow at
-    <a href="https://www.jyu.fi/en">University of Jyv&#228;skyl&#228;<OutboundLink /></a> 09/2017-</p>
+    <a href="https://www.jyu.fi/en">University of Jyv&#228;skyl&#228;<OutboundLink /></a> 09/2017-04/2023</p>
   <p>PhD in organic chemistry, University of Jyv&#228;skyl&#228; 2012</p>
   <p>Research interests: supramolecular chemistry, anion binding, macrocyclic receptors (calix[4]pyrroles, resorcinarenes),
     and colloidal structures including micelles and solid lipid nanoparticles.</p>
