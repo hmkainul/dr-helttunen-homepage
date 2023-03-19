@@ -2,6 +2,3 @@
 layout: Nop
 sidebar: false
 ---
-
-
-

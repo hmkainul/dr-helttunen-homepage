@@ -5,7 +5,7 @@
   <div class="row">
 
     <div class="left">
-      <Card src="portrait.jpg" alt="Dr Helttunen">
+      <Card src="/portrait.jpg" alt="Dr Helttunen">
         <Profile />
       </Card>
       <Card>
@@ -17,7 +17,7 @@
     </div>
 
     <div class="right">
-      <Card src="sunset.jpg" alt="Picture of Lake Jyvaskyla">
+      <Card src="/sunset.jpg" alt="Picture of Lake Jyvaskyla">
         <Marext />
       </Card>
       <Card>
