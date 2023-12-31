@@ -11,4 +11,5 @@
 .my-content
     max-width 740px
     margin auto
+    margin-top 72px
 </style>
