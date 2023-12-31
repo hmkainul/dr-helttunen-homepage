@@ -13,8 +13,8 @@
       <p class="more"><a href="marext/">Go to project's page</a> →</p>
     </div>
     <div class="right1">
-      <img class="logo" src="/logo/aka.png" alt="Academy of Finland">
-      <img class="logo-jyu" src="/logo/jyu.png" alt="University of Jyvaskyla">
+      <img class="logo" src="logo/aka.png" alt="Academy of Finland">
+      <img class="logo-jyu" src="logo/jyu.png" alt="University of Jyvaskyla">
     </div>
   </div>
 </div>

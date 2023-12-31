@@ -12,36 +12,8 @@ module.exports = {
             { text: 'Project', link: '/marext/' },
             { text: 'Teaching', link: '/teaching/' },
             { text: 'Events', link: '/events/' },
-            { text: 'Publications', link: '/publications/' },
-            { text: 'Curriculum Vitae', link: '/curriculum-vitae/' },
-        ],
-        locales: {
-            '/': {
-                selectText: 'Languages',
-                label: 'English',
-                ariaLabel: 'Languages',
-            },
-            '/fi/': {
-                selectText: 'Vaihda kieltä',
-                label: 'Suomi',
-                nav: [
-                    // { text: 'Projekti', link: '/fi/marext/' },
-                    // { text: 'Opetus', link: '/fi/teaching/' },
-                    // { text: 'Tapahtumat', link: '/fi/events/' },
-                    { text: 'Julkaisut', link: '/fi/publications/' },
-                    // { text: 'Curriculum Vitae', link: '/fi/curriculum-vitae/' },
-                ]
-            }
-        }
-    },
-    locales: {
-        '/': {
-            lang: 'en-US',
-        },
-        '/fi/': {
-            lang: 'fi-FI',
-            // title: 'Kaisa Helttunen',
-            // description: 'Tähän kuvaus suomeksi',
-        }
+            { text: 'Publications', link: '/publications/'},
+            { text: 'Curriculum Vitae', link: '/curriculum-vitae/'},
+        ]
     }
 }

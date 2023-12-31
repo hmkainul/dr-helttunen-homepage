@@ -1,5 +1,0 @@
----
-sidebar: false
----
-# Väitöskirja
-<Thesis/>

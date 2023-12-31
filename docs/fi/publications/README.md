@@ -1,5 +1,0 @@
----
-sidebar: false
----
-# Julkaisut
-<Publications />
